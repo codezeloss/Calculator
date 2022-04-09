@@ -59,9 +59,10 @@ body {
 .flex {
   display: flex;
   justify-content: right;
+  gap: 0.2rem;
 }
 
-.calc-button-zero {
+.calc-button-equal {
   margin-right: auto;
 }
 
