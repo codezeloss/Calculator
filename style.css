@@ -19,6 +19,13 @@ body {
   font-size: 4rem;
   font-weight: bold;
   text-align: center;
+  padding: 2rem 2rem 0rem 2rem;
+}
+
+.note {
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
   padding: 2rem;
 }
 
@@ -93,9 +100,10 @@ body {
   font-size: 1.2rem;
   text-align: center;
   padding: 2rem;
+  color: rgb(145, 144, 144);
 }
 
 .link {
   text-decoration: none;
-  color: #000;
+  color: rgb(145, 144, 144);
 }
